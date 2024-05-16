@@ -1,0 +1,46 @@
+*{
+  margin-top: 10px;
+}
+.Fname{
+  width: 60%;
+  margin: 10px;
+  
+}
+.About{
+  width: 70%;
+  height: 250Px;
+  text-align: start;
+ 
+   
+  
+}
+.Lang{
+  width: 40%;
+  background-color: rgb(233, 230, 230);
+  height: 40px;
+}
+.container-textcenter
+{
+  margin-bottom: 5%;
+  margin-left: 35%;
+}
+.app{
+
+  position: relative;
+  width: 90%;
+  height: 90%;
+  border: 2px solid #726565;
+  margin: 40px;
+  overflow: hidden; 
+}
+.text{
+  text-align: center;
+}
+.Name{
+  text-align: left;
+  margin: 5px;
+}
+textarea{
+  width: 500px;
+  height: 300px;
+}
